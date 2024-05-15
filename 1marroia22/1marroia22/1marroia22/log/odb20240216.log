@@ -1,0 +1,346 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 00:09:48 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 8140@DBUSTAMANTEP
+
+[2024-02-16 00:09:48 #2 store] 
+Configuration path: ?
+
+[2024-02-16 00:10:01 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2024-02-16 00:10:01 #4 type] 
+Type domain.Flight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 00:32:44 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' has been recovered (tr. 1-3)
+
+[2024-02-16 00:32:44 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 17796@DBUSTAMANTEP
+
+[2024-02-16 00:32:44 #3 store] 
+Configuration path: ?
+
+[2024-02-16 00:32:44 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2024-02-16 00:32:44 #5 type] 
+Type domain.Flight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 00:33:56 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' has been recovered (tr. 4-57)
+
+[2024-02-16 00:33:56 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 15092@DBUSTAMANTEP
+
+[2024-02-16 00:33:56 #3 store] 
+Configuration path: ?
+
+[2024-02-16 00:33:56 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2024-02-16 00:33:56 #5 type] 
+Type domain.Flight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 00:36:58 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 1296@DBUSTAMANTEP
+
+[2024-02-16 00:36:58 #2 store] 
+Configuration path: ?
+
+[2024-02-16 00:36:58 #3 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+[2024-02-16 00:36:58 #4 type] 
+Type domain.Flight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 00:38:07 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 17492@DBUSTAMANTEP
+
+[2024-02-16 00:38:07 #2 store] 
+Configuration path: ?
+
+[2024-02-16 00:38:07 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 00:38:07 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:08:09 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' has been recovered (tr. 1-56)
+
+[2024-02-16 09:08:09 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 17092@DBUSTAMANTEP
+
+[2024-02-16 09:08:09 #3 store] 
+Configuration path: ?
+
+[2024-02-16 09:08:10 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:08:10 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:23:22 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 2404@DBUSTAMANTEP
+
+[2024-02-16 09:23:22 #2 store] 
+Configuration path: ?
+
+[2024-02-16 09:23:22 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:23:22 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:23:44 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 17792@DBUSTAMANTEP
+
+[2024-02-16 09:23:44 #2 store] 
+Configuration path: ?
+
+[2024-02-16 09:23:44 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:23:44 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:26:05 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 11504@DBUSTAMANTEP
+
+[2024-02-16 09:26:05 #2 store] 
+Configuration path: ?
+
+[2024-02-16 09:26:05 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:26:05 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:26:48 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' has been recovered (tr. 57-58)
+
+[2024-02-16 09:26:48 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 18268@DBUSTAMANTEP
+
+[2024-02-16 09:26:48 #3 store] 
+Configuration path: ?
+
+[2024-02-16 09:26:49 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:26:49 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 09:39:10 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' has been recovered (tr. 59-60)
+
+[2024-02-16 09:39:10 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\vuelos.odb' is opened by 17960@DBUSTAMANTEP
+
+[2024-02-16 09:39:10 #3 store] 
+Configuration path: ?
+
+[2024-02-16 09:39:10 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 09:39:10 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 18:38:52 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' has been recovered (tr. 61-61)
+
+[2024-02-16 18:38:52 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 18576@DBUSTAMANTEP
+
+[2024-02-16 18:38:52 #3 store] 
+Configuration path: ?
+
+[2024-02-16 18:38:52 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 18:38:52 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 18:56:35 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' has been recovered (tr. 62-65)
+
+[2024-02-16 18:56:35 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 14588@DBUSTAMANTEP
+
+[2024-02-16 18:56:35 #3 store] 
+Configuration path: ?
+
+[2024-02-16 18:56:35 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 18:56:35 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 18:57:22 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 17604@DBUSTAMANTEP
+
+[2024-02-16 18:57:22 #2 store] 
+Configuration path: ?
+
+[2024-02-16 18:57:23 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 18:57:23 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 19:15:11 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 5508@DBUSTAMANTEP
+
+[2024-02-16 19:15:11 #2 store] 
+Configuration path: ?
+
+[2024-02-16 19:15:12 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 19:15:12 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 19:16:21 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 15556@DBUSTAMANTEP
+
+[2024-02-16 19:16:21 #2 store] 
+Configuration path: ?
+
+[2024-02-16 19:16:22 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 19:16:22 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 19:16:25 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' has been recovered (tr. 1-54)
+
+[2024-02-16 19:16:25 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 16512@DBUSTAMANTEP
+
+[2024-02-16 19:16:25 #3 store] 
+Configuration path: ?
+
+[2024-02-16 19:16:25 #4 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 19:16:25 #5 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 19:37:42 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 8280@DBUSTAMANTEP
+
+[2024-02-16 19:37:42 #2 store] 
+Configuration path: ?
+
+[2024-02-16 19:37:42 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 19:37:42 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 20:08:32 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 8976@DBUSTAMANTEP
+
+[2024-02-16 20:08:32 #2 store] 
+Configuration path: ?
+
+[2024-02-16 20:08:32 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 20:08:32 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 20:09:11 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 8808@DBUSTAMANTEP
+
+[2024-02-16 20:09:11 #2 store] 
+Configuration path: ?
+
+[2024-02-16 20:09:12 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 20:09:12 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 20:11:09 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 16604@DBUSTAMANTEP
+
+[2024-02-16 20:11:09 #2 store] 
+Configuration path: ?
+
+[2024-02-16 20:11:09 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 20:11:09 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 20:29:02 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 18324@DBUSTAMANTEP
+
+[2024-02-16 20:29:02 #2 store] 
+Configuration path: ?
+
+[2024-02-16 20:29:02 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 20:29:02 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-16 20:34:04 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\1marroia22\vuelos.odb' is opened by 3052@DBUSTAMANTEP
+
+[2024-02-16 20:34:04 #2 store] 
+Configuration path: ?
+
+[2024-02-16 20:34:04 #3 type] 
+Type domain.Flight is not enhanced.
+
+[2024-02-16 20:34:04 #4 type] 
+Type domain.ConcreteFlight is not enhanced.
+

@@ -1,0 +1,336 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 18:28:42 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 14736@DBUSTAMANTEP
+
+[2024-04-08 18:28:42 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 18:28:42 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 18:28:42 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 18:28:42 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 18:28:42 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 18:28:42 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 18:28:42 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 18:28:42 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 18:28:42 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 18:28:42 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 18:28:42 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 18:28:42 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 18:28:42 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 18:28:42 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 18:28:42 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 18:28:42 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 18:30:30 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:03:10 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 1772@DBUSTAMANTEP
+
+[2024-04-08 19:03:10 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 19:03:10 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:03:10 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 19:03:10 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 19:03:10 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 19:03:10 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 19:03:10 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 19:03:10 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 19:03:10 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:03:10 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 19:03:10 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 19:03:10 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 19:03:10 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 19:03:10 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 19:03:10 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 19:03:10 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 19:05:54 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:32:53 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 17188@DBUSTAMANTEP
+
+[2024-04-08 19:32:53 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 19:32:53 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:32:53 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 19:32:53 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 19:32:53 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 19:32:53 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 19:32:53 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 19:32:53 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 19:32:53 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:32:53 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 19:32:53 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 19:32:53 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 19:32:53 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 19:32:53 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 19:32:53 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 19:32:53 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 19:34:31 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:42:10 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 5212@DBUSTAMANTEP
+
+[2024-04-08 19:42:10 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 19:42:10 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:42:10 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 19:42:10 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 19:42:10 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 19:42:10 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 19:42:10 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 19:42:10 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 19:42:10 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:42:10 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 19:42:10 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 19:42:10 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 19:42:10 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 19:42:10 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 19:42:10 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 19:42:10 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 19:51:24 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 19:55:23 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 17664@DBUSTAMANTEP
+
+[2024-04-08 19:55:23 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 19:55:23 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 19:55:23 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 19:55:23 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 19:55:23 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 19:55:23 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 19:55:23 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 19:55:23 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 19:55:23 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 19:55:23 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 19:55:23 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 19:55:23 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 19:55:23 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 19:55:23 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 19:55:23 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 19:55:23 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 19:56:48 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-08 20:05:54 #1 store] 
+Database 'C:\Users\vtdan\Downloads\Iteracion 2 Monedero\Rides24\src\main\resources\rides.temp' is opened by 17004@DBUSTAMANTEP
+
+[2024-04-08 20:05:54 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-08 20:05:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-08 20:05:54 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-08 20:05:54 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-08 20:05:54 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-08 20:05:54 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-08 20:05:54 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-08 20:05:54 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-08 20:05:54 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-08 20:05:54 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-08 20:05:54 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-08 20:05:54 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-08 20:05:54 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-08 20:05:54 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-08 20:05:54 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-08 20:05:54 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-08 20:07:09 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+

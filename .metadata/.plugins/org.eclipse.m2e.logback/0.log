@@ -1,0 +1,6 @@
+2024-02-09 18:14:19,867 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-09 18:16:37,845 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: is1:marroia1:0.0.1-SNAPSHOT @ C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\pom.xml.
+2024-02-09 18:16:37,845 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: is1:marroia1:0.0.1-SNAPSHOT @ C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\pom.xml.
+2024-02-09 18:16:40,953 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-02-09 18:16:40,967 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\test\resources to target\test-classes
+2024-02-09 18:16:42,364 [Worker-4: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: is1:marroia1:0.0.1-SNAPSHOT @ C:\Users\vtdan\Documents\Ingeniera de Software\1marroia22\pom.xml.

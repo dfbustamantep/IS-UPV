@@ -1,0 +1,98 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 09:02:08 #1 store] 
+Database 'C:\Users\vtdan\Downloads\rides_registro\Rides24\src\main\resources\rides.temp' is opened by 18360@DBUSTAMANTEP
+
+[2024-02-23 09:02:08 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-23 09:02:08 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-23 09:02:08 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-23 09:02:08 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-23 09:02:08 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-23 09:02:08 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-02-23 09:02:50 #8 type.registry] 
+New type domain.viajero
+
+[2024-02-23 09:02:50 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 09:29:37 #1 store] 
+Database 'C:\Users\vtdan\Downloads\rides_registro\Rides24\src\main\resources\rides.temp' is opened by 18572@DBUSTAMANTEP
+
+[2024-02-23 09:29:37 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-23 09:29:37 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-23 09:29:37 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-23 09:29:37 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-23 09:29:37 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-23 09:29:37 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 11:00:14 #1 store] 
+Database 'C:\Users\vtdan\Downloads\rides_registro\Rides24\src\main\resources\rides.temp' is opened by 4688@DBUSTAMANTEP
+
+[2024-02-23 11:00:15 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-23 11:00:15 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-23 11:00:15 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-23 11:00:15 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-23 11:00:15 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-23 11:00:15 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 11:15:37 #1 store] 
+Database 'C:\Users\vtdan\Downloads\rides_registro\Rides24\src\main\resources\rides.temp' is opened by 3768@DBUSTAMANTEP
+
+[2024-02-23 11:15:37 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-23 11:15:37 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-23 11:15:37 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-23 11:15:37 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-23 11:15:37 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-23 11:15:37 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+

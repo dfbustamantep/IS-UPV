@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1marroia22/src/main/java"/>
+	<classpathentry kind="lib" path="1marroia22/lib/objectdb.jar"/>
+	<classpathentry kind="output" path="1marroia22/target/classes"/>
+</classpath>

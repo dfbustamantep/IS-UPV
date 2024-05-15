@@ -1,0 +1,78 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:49:45 #1 server] 
+Server on port 6136 has started by 18112@DBUSTAMANTEP
+
+[2024-02-23 10:50:09 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is opened by 18112@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:50:10 #1 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-23 10:50:10 #2 type] 
+Type domain.President is not enhanced.
+
+[2024-02-23 10:50:10 #3 type] 
+Type domain.City is not enhanced.
+
+[2024-02-23 10:50:10 #4 type.registry] 
+New type java.util.HashSet<java.lang.Object>
+
+[2024-02-23 10:50:10 #5 type.registry] 
+New type java.util.HashSet<domain.Country>
+
+[2024-02-23 10:51:57 #3 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is closed by 18112@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:53:48 #1 server] 
+Server on port 6136 has started by 10952@DBUSTAMANTEP
+
+[2024-02-23 10:54:01 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is opened by 10952@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:54:01 #1 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-23 10:54:01 #2 type] 
+Type domain.President is not enhanced.
+
+[2024-02-23 10:54:01 #3 type] 
+Type domain.City is not enhanced.
+
+[2024-02-23 10:54:12 #3 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is closed by 10952@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:55:45 #1 server] 
+Server on port 6136 has started by 18412@DBUSTAMANTEP
+
+[2024-02-23 10:55:53 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' has been recovered (tr. 41-42)
+
+[2024-02-23 10:55:54 #3 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is opened by 18412@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-23 10:55:54 #1 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-23 10:55:54 #2 type] 
+Type domain.President is not enhanced.
+
+[2024-02-23 10:55:54 #3 type] 
+Type domain.City is not enhanced.
+
+[2024-02-23 10:56:53 #4 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is closed by 18412@DBUSTAMANTEP
+
+[2024-02-23 11:01:35 #5 server] 
+Server on port 6136 has stopped by 18412@DBUSTAMANTEP
+

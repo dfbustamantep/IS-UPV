@@ -1,0 +1,806 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 16:57:49 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 11280@LAPTOP-C5O8HU11
+
+[2024-05-04 16:57:49 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 16:57:49 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 16:57:49 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 16:57:49 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 16:57:49 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 16:57:49 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 16:57:49 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 16:57:49 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 16:57:49 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 16:57:49 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 16:57:49 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 16:57:49 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 16:57:49 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 16:57:49 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 16:57:49 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 16:57:49 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 16:57:49 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 16:57:49 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 16:57:49 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 16:57:58 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 6720@LAPTOP-C5O8HU11
+
+[2024-05-04 16:57:58 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 16:57:58 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 16:57:58 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 16:57:58 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 16:57:58 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 16:57:58 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 16:57:58 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 16:57:58 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 16:57:58 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 16:57:58 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 16:57:58 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 16:57:58 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 16:57:58 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 16:57:58 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 16:57:58 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 16:57:58 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 16:57:58 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 16:57:58 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 16:57:58 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 17:07:28 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 14828@LAPTOP-C5O8HU11
+
+[2024-05-04 17:07:29 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 17:07:29 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 17:07:29 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 17:07:29 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 17:07:29 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 17:07:29 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 17:07:29 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 17:07:29 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 17:07:29 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 17:07:29 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 17:07:29 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 17:07:29 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 17:07:29 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 17:07:29 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 17:07:29 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 17:07:29 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 17:07:29 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 17:07:29 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 17:07:29 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 17:48:01 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 12748@LAPTOP-C5O8HU11
+
+[2024-05-04 17:48:01 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 17:48:01 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 17:48:01 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 17:48:01 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 17:48:01 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 17:48:01 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 17:48:01 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 17:48:01 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 17:48:01 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 17:48:01 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 17:48:01 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 17:48:01 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 17:48:01 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 17:48:01 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 17:48:01 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 17:48:01 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 17:48:01 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 17:48:01 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 17:48:01 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 17:55:38 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 23724@LAPTOP-C5O8HU11
+
+[2024-05-04 17:55:38 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 17:55:38 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 17:55:38 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 17:55:38 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 17:55:38 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 17:55:38 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 17:55:38 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 17:55:38 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 17:55:38 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 17:55:38 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 17:55:38 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 17:55:38 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 17:55:38 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 17:55:38 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 17:55:38 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 17:55:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 17:55:38 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 17:55:38 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 17:55:38 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 17:55:44 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 3820@LAPTOP-C5O8HU11
+
+[2024-05-04 17:55:44 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 17:55:44 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 17:55:44 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 17:55:44 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 17:55:44 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 17:55:44 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 17:55:44 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 17:55:44 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 17:55:44 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 17:55:44 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 17:55:44 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 17:55:44 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 17:55:44 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 17:55:44 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 17:55:44 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 17:55:44 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 17:55:44 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 17:55:44 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 17:55:44 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:10:21 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 17860@LAPTOP-C5O8HU11
+
+[2024-05-04 18:10:21 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:10:21 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:10:21 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:10:21 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:10:21 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:10:21 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:10:21 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:10:21 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:10:21 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:10:21 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:10:21 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:10:21 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:10:21 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:10:21 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:10:21 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:10:21 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:10:21 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:10:21 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:10:21 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:11:41 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 10648@LAPTOP-C5O8HU11
+
+[2024-05-04 18:11:41 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:11:41 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:11:41 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:11:41 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:11:41 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:11:41 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:11:41 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:11:41 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:11:41 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:11:41 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:11:41 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:11:41 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:11:41 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:11:41 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:11:41 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:11:41 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:11:41 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:11:41 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:11:41 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:12:53 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 7828@LAPTOP-C5O8HU11
+
+[2024-05-04 18:12:53 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:12:53 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:12:53 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:12:53 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:12:53 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:12:53 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:12:53 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:12:53 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:12:53 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:12:53 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:12:53 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:12:53 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:12:53 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:12:53 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:12:53 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:12:53 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:12:53 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:12:53 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:12:53 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:15:22 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 15060@LAPTOP-C5O8HU11
+
+[2024-05-04 18:15:22 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:15:22 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:15:22 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:15:22 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:15:22 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:15:22 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:15:22 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:15:22 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:15:22 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:15:22 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:15:22 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:15:22 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:15:22 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:15:22 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:15:22 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:15:22 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:15:22 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:15:22 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:15:22 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:17:31 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 4744@LAPTOP-C5O8HU11
+
+[2024-05-04 18:17:31 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:17:31 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:17:31 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:17:31 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:17:31 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:17:31 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:17:31 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:17:31 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:17:31 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:17:31 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:17:31 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:17:31 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:17:31 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:17:31 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:17:31 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:17:31 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:17:31 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:17:31 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:17:31 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:26:10 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 20748@LAPTOP-C5O8HU11
+
+[2024-05-04 18:26:11 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:26:11 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:26:11 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:26:11 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:26:11 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:26:11 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:26:11 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:26:11 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:26:11 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:26:11 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:26:11 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:26:11 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:26:11 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:26:11 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:26:11 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:26:11 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:26:11 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:26:11 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:26:11 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-05-04 18:36:37 #1 store] 
+Database 'C:\Users\user\OneDrive - UPV EHU\Escritorio\workspace-2\Rides24\src\main\resources\rides.temp' is opened by 3228@LAPTOP-C5O8HU11
+
+[2024-05-04 18:36:37 #2 type.registry] 
+New type domain.user
+
+[2024-05-04 18:36:37 #3 type.registry] 
+New type domain.Driver
+
+[2024-05-04 18:36:37 #4 type] 
+Type domain.user is not enhanced.
+
+[2024-05-04 18:36:37 #5 type] 
+Type domain.Driver is not enhanced.
+
+[2024-05-04 18:36:38 #6 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-05-04 18:36:38 #7 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-05-04 18:36:38 #8 type.registry] 
+New type domain.Ride
+
+[2024-05-04 18:36:38 #9 type.registry] 
+New type domain.RideSolicitado
+
+[2024-05-04 18:36:38 #10 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-05-04 18:36:38 #11 type.registry] 
+New type java.util.ArrayList<java.lang.String>
+
+[2024-05-04 18:36:38 #12 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-05-04 18:36:38 #13 type] 
+Type domain.Ride is not enhanced.
+
+[2024-05-04 18:36:38 #14 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-05-04 18:36:38 #15 type.registry] 
+New type domain.viajero
+
+[2024-05-04 18:36:38 #16 type] 
+Type domain.viajero is not enhanced.
+
+[2024-05-04 18:36:38 #17 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-05-04 18:36:38 #18 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-05-04 18:36:38 #19 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-05-04 18:36:38 #20 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+

@@ -1,0 +1,70 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-30 18:31:26 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 19332@DESKTOP-8QHVPEI
+
+[2024-03-30 18:31:26 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-30 18:31:26 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-30 18:31:26 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-30 18:31:26 #5 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-03-30 18:31:26 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-30 18:31:26 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-30 18:31:26 #8 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-30 18:31:26 #9 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+
+[2024-03-30 18:31:46 #10 type.registry] 
+New type domain.RideSolicitado
+
+[2024-03-30 18:31:46 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-03-30 18:31:46 #12 type.registry] 
+New type domain.viajero
+
+[2024-03-30 18:31:46 #13 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-30 18:33:28 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 8376@DESKTOP-8QHVPEI
+
+[2024-03-30 18:33:28 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-30 18:33:28 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-30 18:33:28 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-30 18:33:28 #5 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-03-30 18:33:28 #6 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-30 18:33:28 #7 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-30 18:33:28 #8 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-30 18:33:28 #9 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+

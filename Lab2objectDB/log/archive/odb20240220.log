@@ -1,0 +1,201 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 18:43:06 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 18872@DBUSTAMANTEP
+
+[2024-02-20 18:43:06 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 18:43:06 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 18:43:06 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 18:45:40 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 2588@DBUSTAMANTEP
+
+[2024-02-20 18:45:41 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 18:45:41 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 18:45:41 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 18:47:27 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 2904@DBUSTAMANTEP
+
+[2024-02-20 18:47:27 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 18:47:27 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 18:47:27 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 18:54:14 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 12188@DBUSTAMANTEP
+
+[2024-02-20 18:54:14 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 18:54:14 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 18:54:14 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 18:59:26 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 16508@DBUSTAMANTEP
+
+[2024-02-20 18:59:26 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 18:59:26 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 18:59:26 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:04:12 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' has been recovered (tr. 59-61)
+
+[2024-02-20 19:04:12 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 20200@DBUSTAMANTEP
+
+[2024-02-20 19:04:12 #3 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:04:12 #4 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:04:12 #5 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:07:13 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 16608@DBUSTAMANTEP
+
+[2024-02-20 19:07:13 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:07:13 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:07:13 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:15:52 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 15856@DBUSTAMANTEP
+
+[2024-02-20 19:15:52 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:15:52 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:15:52 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:20:20 #1 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\America.odb' is opened by 2536@DBUSTAMANTEP
+
+[2024-02-20 19:20:20 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:20:20 #3 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:20:20 #4 type] 
+Type domain.City is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:38:17 #1 server] 
+Server on port 6136 has started by 7196@DBUSTAMANTEP
+
+[2024-02-20 19:47:58 #2 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is opened by 7196@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:47:59 #1 type.registry] 
+New type domain.Country
+
+[2024-02-20 19:47:59 #2 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:47:59 #3 type.registry] 
+New type domain.President
+
+[2024-02-20 19:47:59 #4 type.registry] 
+New type domain.City
+
+[2024-02-20 19:47:59 #5 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:47:59 #6 type.registry] 
+New type domain.AccessMode
+
+[2024-02-20 19:47:59 #7 type] 
+Type domain.City is not enhanced.
+
+[2024-02-20 19:48:00 #3 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is closed by 7196@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:48:32 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:555)
+	at java.base/sun.nio.ch.Net.bind(Net.java:544)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:648)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:218)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2024-02-20 19:48:41 #4 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is opened by 7196@DBUSTAMANTEP
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-20 19:48:41 #1 type] 
+Type domain.Country is not enhanced.
+
+[2024-02-20 19:48:41 #2 type] 
+Type domain.President is not enhanced.
+
+[2024-02-20 19:48:41 #3 type] 
+Type domain.City is not enhanced.
+
+[2024-02-20 19:48:43 #5 store] 
+Database 'C:\Users\vtdan\Documents\Ingeniera de Software\Lab2objectDB\db\America.odb' is closed by 7196@DBUSTAMANTEP
+
+[2024-02-20 19:48:51 #6 server] 
+Server on port 6136 has stopped by 7196@DBUSTAMANTEP
+

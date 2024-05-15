@@ -1,0 +1,56 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-04-16 22:30:35 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 8244@DESKTOP-8QHVPEI
+
+[2024-04-16 22:30:35 #2 type.registry] 
+New type domain.Driver
+
+[2024-04-16 22:30:35 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-04-16 22:30:35 #4 type.registry] 
+New type domain.Viajecompuesto
+
+[2024-04-16 22:30:35 #5 type.registry] 
+New type java.util.ArrayList<domain.Viajecompuesto>
+
+[2024-04-16 22:30:35 #6 type.registry] 
+New type domain.Ride
+
+[2024-04-16 22:30:35 #7 type.registry] 
+New type domain.RideSolicitado
+
+[2024-04-16 22:30:35 #8 type] 
+Type domain.Viajecompuesto is not enhanced.
+
+[2024-04-16 22:30:35 #9 type.registry] 
+New type java.util.LinkedList<domain.Ride>
+
+[2024-04-16 22:30:35 #10 type] 
+Type domain.Ride is not enhanced.
+
+[2024-04-16 22:30:35 #11 type] 
+Type domain.RideSolicitado is not enhanced.
+
+[2024-04-16 22:30:35 #12 type.registry] 
+New type domain.viajero
+
+[2024-04-16 22:30:35 #13 type] 
+Type domain.viajero is not enhanced.
+
+[2024-04-16 22:30:35 #14 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-04-16 22:30:35 #15 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2024-04-16 22:30:35 #16 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-04-16 22:30:35 #17 type.registry] 
+New type java.util.Vector<domain.RideSolicitado>
+
+[2024-04-16 22:30:54 #18 type.registry] 
+New type java.util.LinkedList<java.lang.Object>
+

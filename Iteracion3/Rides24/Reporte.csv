@@ -1,0 +1,34 @@
+2 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , a , Aitor Fernandez , b , b , 3
+2 , Bilbo , Donostia , 1 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+3 , o , d , 45 , 31/05/2024 , 2.0 , Aitor Fernandez , driver1@gmail.com , a , a , 45
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 3
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 2
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 2
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 2
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , a , 2
+2 , or , dest , 56 , 31/05/2024 , 2.0 , d , e , a , b , 56
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , g , t , 2
+1 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , a , b , 4
+1 , or , dest , 50 , 31/05/2024 , 5.0 , d , driver , u , u , 8
+2 , origen , destino , 65 , 28/05/2024 , 2.0 , d , driver , u , u , 5
+3 , origen2 , destino2 , 20 , 28/05/2024 , 10.0 , d , driver , u , u , 15
+1 , or1 , des1 , 50 , 28/05/2024 , 5.0 , driver , driver , u , u , 5
+1 , ori1 , des1 , 40 , 28/05/2024 , 3.0 , cond , driv , us , us , 3
+2 , or2 , des2 , 70 , 28/05/2024 , 12.0 , cond , driv , us , us , 8
+3 , origen , destino , 70 , 31/05/2024 , 3.0 , cond , driv , us , us , 70
+1 , or , des , 20 , 31/05/2024 , 1.0 , c , c , user , user@gmail.com , 20
+2 , origen , destino , 50 , 31/05/2024 , 5.0 , c , c , user , user@gmail.com , 4
+3 , beasain , tolosa , 50 , 25/05/2024 , 5.0 , c , c , user , user@gmail.com , 1
+4 , beasainn , tolosa , 50 , 25/05/2024 , 2.0 , c , c , user , user@gmail.com , 50
+1 , origen , destino , 89 , 31/05/2024 , 5.0 , c , c , user , u , 89
+null , 1 , Bilbo , Donostia , 4 , 25/05/2024 , 3.6 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+null , 2 , a , d , 10 , 10/05/2024 , 10.0 , Aitor Fernandez , driver1@gmail.com , a , a , 10
+null , 1 , Bilbo , Donostia , 4 , 25/05/2024 , 3.24 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+null , 1 , Bilbo , Donostia , 4 , 25/05/2024 , 3.24 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+null , 1 , Bilbo , Donostia , 4 , 25/05/2024 , 3.6 , Aitor Fernandez , driver1@gmail.com , a , a , 1
+null , 1 , San Sebastian , Pamplona , 30 , 13/05/2024 , 30.0 , Aitor Fernandez , driver1@gmail.com , a , a , 30
+null , 2 , Bilbo , Donostia , 4 , 25/05/2024 , 4.0 , Aitor Fernandez , driver1@gmail.com , jose , jose@gmail.com , 1

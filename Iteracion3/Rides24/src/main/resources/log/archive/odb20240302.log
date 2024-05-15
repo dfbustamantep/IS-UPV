@@ -1,0 +1,693 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:07:57 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 4540@LAPTOP-C5O8HU11
+
+[2024-03-02 17:07:57 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:07:57 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:07:57 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:07:57 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:07:57 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:07:57 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:31:13 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 21584@LAPTOP-C5O8HU11
+
+[2024-03-02 17:31:13 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:31:13 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:31:13 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:31:13 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:31:13 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:31:13 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:35:49 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 13580@LAPTOP-C5O8HU11
+
+[2024-03-02 17:35:49 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:35:49 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:35:49 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:35:49 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:35:49 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:35:49 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:36:10 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 20636@LAPTOP-C5O8HU11
+
+[2024-03-02 17:36:10 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:36:10 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:36:10 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:36:10 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:36:10 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:36:10 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:41:11 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 17496@LAPTOP-C5O8HU11
+
+[2024-03-02 17:41:11 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:41:11 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:41:11 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:41:11 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:41:11 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:41:11 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 17:43:20 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 25720@LAPTOP-C5O8HU11
+
+[2024-03-02 17:43:20 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 17:43:20 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 17:43:20 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 17:43:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 17:43:20 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 17:43:20 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:09:31 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 14060@LAPTOP-C5O8HU11
+
+[2024-03-02 18:09:31 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:09:31 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:09:31 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:09:31 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:09:31 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:09:31 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:09:54 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 3392@LAPTOP-C5O8HU11
+
+[2024-03-02 18:09:54 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:09:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:09:54 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:09:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:09:54 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:09:54 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:16:54 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 22948@LAPTOP-C5O8HU11
+
+[2024-03-02 18:16:54 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:16:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:16:54 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:16:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:16:54 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:16:54 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:28:25 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 1188@LAPTOP-C5O8HU11
+
+[2024-03-02 18:28:25 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:28:25 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:28:25 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:28:25 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:28:26 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:28:26 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 18:29:00 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 18:29:00 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:29:19 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 22672@LAPTOP-C5O8HU11
+
+[2024-03-02 18:29:19 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:29:19 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:29:19 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:29:19 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:29:19 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:29:19 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:40:20 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 14224@LAPTOP-C5O8HU11
+
+[2024-03-02 18:40:21 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:40:21 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:40:21 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:40:21 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:40:21 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:40:21 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:41:47 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 10140@LAPTOP-C5O8HU11
+
+[2024-03-02 18:41:47 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:41:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:41:47 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:41:47 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:41:47 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:41:47 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 18:51:17 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 24600@LAPTOP-C5O8HU11
+
+[2024-03-02 18:51:17 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 18:51:17 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 18:51:17 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 18:51:17 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 18:51:17 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 18:51:17 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:03:37 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 6444@LAPTOP-C5O8HU11
+
+[2024-03-02 19:03:37 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:03:37 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:03:37 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:03:37 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:03:37 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:03:37 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:04:03 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 8260@LAPTOP-C5O8HU11
+
+[2024-03-02 19:04:03 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:04:03 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:04:03 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:04:03 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:04:03 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:04:03 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:04:16 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:04:16 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:04:41 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 13440@LAPTOP-C5O8HU11
+
+[2024-03-02 19:04:41 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:04:41 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:04:41 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:04:41 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:04:42 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:04:42 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:04:53 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:04:53 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:06:43 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 4696@LAPTOP-C5O8HU11
+
+[2024-03-02 19:06:43 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:06:43 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:06:43 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:06:43 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:06:43 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:06:43 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:06:51 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:06:51 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:09:39 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 26040@LAPTOP-C5O8HU11
+
+[2024-03-02 19:09:39 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:09:39 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:09:39 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:09:39 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:09:39 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:09:39 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:09:48 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:09:48 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:13:47 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 22584@LAPTOP-C5O8HU11
+
+[2024-03-02 19:13:47 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:13:47 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:13:47 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:13:47 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:13:47 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:13:47 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:14:11 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 14768@LAPTOP-C5O8HU11
+
+[2024-03-02 19:14:11 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:14:11 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:14:11 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:14:11 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:14:11 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:14:11 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:14:22 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:14:22 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:16:30 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 13540@LAPTOP-C5O8HU11
+
+[2024-03-02 19:16:30 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:16:30 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:16:30 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:16:30 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:16:30 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:16:30 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:16:37 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:16:37 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:18:09 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 20376@LAPTOP-C5O8HU11
+
+[2024-03-02 19:18:09 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:18:09 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:18:09 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:18:09 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:18:09 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:18:09 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:18:27 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:18:27 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:21:59 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 20228@LAPTOP-C5O8HU11
+
+[2024-03-02 19:22:00 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:22:00 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:22:00 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:22:00 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:22:00 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:22:00 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:22:06 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:22:06 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:23:53 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 10756@LAPTOP-C5O8HU11
+
+[2024-03-02 19:23:54 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:23:54 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:23:54 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:23:54 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:23:54 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:23:54 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:24:00 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:24:00 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:26:20 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 4736@LAPTOP-C5O8HU11
+
+[2024-03-02 19:26:20 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:26:20 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:26:20 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:26:20 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:26:20 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:26:20 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:26:28 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:26:28 #9 type] 
+Type domain.viajero is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-03-02 19:27:37 #1 store] 
+Database 'C:\Users\user\Desktop\Eclisple Proyectos\Rides24\src\main\resources\rides.temp' is opened by 23416@LAPTOP-C5O8HU11
+
+[2024-03-02 19:27:37 #2 type.registry] 
+New type domain.Driver
+
+[2024-03-02 19:27:37 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-03-02 19:27:37 #4 type.registry] 
+New type domain.Ride
+
+[2024-03-02 19:27:37 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-03-02 19:27:37 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-03-02 19:27:37 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+[2024-03-02 19:27:43 #8 type.registry] 
+New type domain.viajero
+
+[2024-03-02 19:27:43 #9 type] 
+Type domain.viajero is not enhanced.
+

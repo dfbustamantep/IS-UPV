@@ -1,0 +1,69 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-19 16:40:04 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 29880@DESKTOP-8QHVPEI
+
+[2024-02-19 16:40:04 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-19 16:40:04 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-19 16:40:04 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-19 16:40:04 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-19 16:40:04 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-19 16:40:04 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-19 16:46:06 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 47984@DESKTOP-8QHVPEI
+
+[2024-02-19 16:46:06 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-19 16:46:06 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-19 16:46:06 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-19 16:46:06 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-19 16:46:06 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-19 16:46:06 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2024-02-19 17:05:15 #1 store] 
+Database 'D:\eclipse\WorkSpace\Rides24\src\main\resources\rides.temp' is opened by 46160@DESKTOP-8QHVPEI
+
+[2024-02-19 17:05:15 #2 type.registry] 
+New type domain.Driver
+
+[2024-02-19 17:05:15 #3 type] 
+Type domain.Driver is not enhanced.
+
+[2024-02-19 17:05:15 #4 type.registry] 
+New type domain.Ride
+
+[2024-02-19 17:05:15 #5 type] 
+Type domain.Ride is not enhanced.
+
+[2024-02-19 17:05:15 #6 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2024-02-19 17:05:15 #7 type.registry] 
+New type java.util.Vector<domain.Ride>
+

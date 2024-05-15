@@ -1,0 +1,5 @@
+package domain;
+
+public enum AccessMode {
+	ELECTION, ELECTION_WITH_FRAUD, REVOLUTION, USA_INSPIRED_COUP, COUP, DESIGNATION
+}

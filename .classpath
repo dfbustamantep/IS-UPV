@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="1marroia22/1marroia22/1marroia22/src/main/java"/>
+	<classpathentry kind="src" path="Clase 2feb/src"/>
+	<classpathentry kind="src" path="Lab2objectDB/src"/>
+	<classpathentry kind="src" path="MARRON2 FINAL/1marroia22/1marroia22/src/main/java"/>
+	<classpathentry kind="src" path="MARRON2 FINAL/1marroia22/src/main/java"/>
+	<classpathentry kind="src" path="ObjectdbLab1/src"/>
+	<classpathentry kind="src" path="Rides24-master/src/main/java"/>
+	<classpathentry kind="src" path="Rides24-master/src/test/java"/>
+	<classpathentry kind="lib" path="1marroia22/1marroia22/1marroia22/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="Clase 2feb/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="Lab2objectDB/lib/db4o-8.0.249.16098-all-java5.jar"/>
+	<classpathentry kind="lib" path="Lab2objectDB/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="MARRON2 FINAL/1marroia22/1marroia22/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="MARRON2 FINAL/1marroia22/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="MARRON2 FINAL/1marroia22/marron2HaritzGomezDanielBustamante.jar"/>
+	<classpathentry kind="lib" path="ObjectdbLab1/lib/objectdb.jar"/>
+	<classpathentry kind="lib" path="Rides24-master/src/main/resources/objectdb.jar"/>
+	<classpathentry kind="lib" path="Rides24-master/target/classes/objectdb.jar"/>
+	<classpathentry kind="output" path="1marroia22/1marroia22/1marroia22/target/classes"/>
+</classpath>
