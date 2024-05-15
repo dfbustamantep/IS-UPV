@@ -4,23 +4,31 @@ Alfredo Goñi
 
 ## Temas 
 TEMA 1: Captura de requisitos
-
-  1.1.- Modelo de Casos de Uso
-
-  1.2.- Modelo del Dominio
+<ol>
+  <li>Modelo de Casos de Uso</li>
+  <li>Modelo del Dominio</li>
+</ol>
+ 
 
 TEMA 2: Diseño
+<ol>
+  <li>Diagramas de secuencia</li>
+  <li>Patrones de diseño software</li>
+  <li>Arquitecturas Software de varios niveles</li>
+</ol>
 
-  2.1.- Diagramas de secuencia
-
-  2.2.- Patrones de diseño software
-
-  2.3.- Arquitecturas Software de varios niveles
 
 TEMA 3: Implementación
+<ol>
+  <li>Interfaces gráficas de usuario</li>
+  <li>Persistencia de objetos</li>
+  <li> Computación distribuida</li>
+</ol>
 
-  3.1.- Interfaces gráficas de usuario
 
-  3.2.- Persistencia de objetos
-
-  3.3.- Computación distribuida
+## Herramientas utlizadas
+<ol>
+  <li>Eclipse IDE</li>
+  <li>StarUML</li>
+  <li>ObjectDB</li>
+</ol>
